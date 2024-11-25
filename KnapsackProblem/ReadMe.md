@@ -106,7 +106,7 @@ Y: 5 kg, K7 (ratio 1.40)
 Z: 4 kg, K5 (ratio 1.25)
 ```
 
-The greedy algorithm would choose Y first, then be unable to fit X, resulting in total value 7K. However, the optimal solution would be X + Z = 13K.
+The greedy algorithm would choose Y first, then be unable to fit X, resulting in total value 7K. However, the optimal solution would be X + Z = K13.
 
 ### 6. Conclusions
 
